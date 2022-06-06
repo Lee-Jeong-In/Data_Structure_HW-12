@@ -41,7 +41,10 @@ int main()
 	int key = -1;
 	int index = -1;
 
-	srand(time(NULL));
+	printf("[----- [이정인] [2019038015] -----]\n");
+
+
+	srand(time(NULL));		// seed값을 생성한다.
 
 	do{
 		printf("----------------------------------------------------------------\n");
